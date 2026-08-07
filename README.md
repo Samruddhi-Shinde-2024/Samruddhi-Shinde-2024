@@ -1,28 +1,28 @@
-<div align="center">
+<!-- <div align="center">
 
 <!-- <img src="assets/banner.png" alt="Samruddhi Shinde Banner" width="100%" /> -->
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="assets/aurora.svg" width="100%">
 
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Building+Scalable+Software;Always+Learning+New+Technologies" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
 
 <p align="center">
     <img src="assets/wave.svg" width="100%">
-</p>
-
+</p> -->
+<!-- 
 💡 Passionate about Full Stack Development, AI/ML, and building scalable software solutions.
 
-</p>
+</p> -->
 
-# Hi 👋, I'm Samruddhi Shinde
+<!-- # Hi 👋, I'm Samruddhi Shinde
 
 ### Information Technology Student @ VIT Pune
 
@@ -35,6 +35,48 @@
   <a href="https://www.linkedin.com/in/samruddhi-shinde-37a3862a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:samruddhishinde960@vit.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+</div> -->
+
+--- -->
+
+
+
+
+
+<div align="center">
+
+<img src="./assets/hero.svg" width="100%">
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=34&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Always+Learning+New+Technologies;Building+Scalable+Software" />
+
+<br>
+
+<h1>Hi 👋, I'm Samruddhi Shinde</h1>
+
+<h3>Information Technology Student @ VIT Pune</h3>
+
+<p>
+
+🚀 Building Scalable Software & Intelligent Solutions
+
+</p>
+
+<br>
+
+<a href="https://samruddhi-portfolio-five.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/samruddhi-shinde-37a3862a8/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:samruddhishinde960@vit.edu">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
