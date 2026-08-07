@@ -1,146 +1,82 @@
 <div align="center">
+  <img src="./assets/hero.svg" alt="Samruddhi Shinde — Full Stack Developer and AI/ML Enthusiast" width="100%" />
 
-<img src="./assets/hero.svg" width="100%" />
+  <br />
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=4F9DFF&center=true&vCenter=true&width=700&lines=Building+Scalable+Software;Full+Stack+Developer;AI%2FML+Enthusiast;Always+Learning+New+Technologies"/>
-
-<br><br>
-
-<a href="https://samruddhi-portfolio-five.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/samruddhi-shinde-37a3862a8/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:samruddhishinde960@vit.edu">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://samruddhi-portfolio-five.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=flat-square&logo=vercel&logoColor=67E8F9&labelColor=0B1220" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/samruddhi-shinde-37a3862a8/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&logo=linkedin&logoColor=67E8F9&labelColor=0B1220" alt="LinkedIn" /></a>
+  <a href="mailto:samruddhishinde960@vit.edu"><img src="https://img.shields.io/badge/Email-0B1220?style=flat-square&logo=gmail&logoColor=67E8F9&labelColor=0B1220" alt="Email" /></a>
+  <a href="https://github.com/Samruddhi-Shinde-2024"><img src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=67E8F9&labelColor=0B1220" alt="GitHub" /></a>
 </div>
 
----
+<br />
 
-## 👩‍💻 About Me
+## About
 
-I'm an Information Technology student at **Vishwakarma Institute of Technology (VIT), Pune**, passionate about building scalable web applications and AI-powered solutions.
+I am an Information Technology student at Vishwakarma Institute of Technology, Pune, building reliable full-stack products and practical AI-powered systems. I care about thoughtful engineering: clear interfaces, maintainable architecture, and software that earns users' trust.
 
-I enjoy transforming ideas into practical software through clean code, thoughtful design, and continuous learning.
+I am currently deepening my work in data structures, backend engineering, system design, and applied machine learning—on the path to becoming a software engineer who can take products from idea to production.
 
-- 🌱 Currently learning **Data Structures & Algorithms, Backend Engineering, and System Design**
-- 💻 Interested in **Full Stack Development, Artificial Intelligence, and Machine Learning**
-- 🚀 Building projects that solve real-world problems
-- 🎯 Goal: Become a Software Development Engineer
+<br />
 
----
+## Selected work
 
-## 🛠️ Tech Stack
+| Project | What it does | Engineering focus |
+| :-- | :-- | :-- |
+| **Sentinel SOC** | A security operations dashboard that identifies behavioral anomalies and turns signals into explainable risk insights. | React · FastAPI · Python · Isolation Forest · Explainable AI |
+| **Healthcare Appointment Manager** | A role-aware healthcare workflow for booking, scheduling, and managing patient appointments. | React · TypeScript · Node.js · Express · Prisma · PostgreSQL · Redis |
+| **Pharmacy Management System** | An inventory and billing system for managing medicine stock, suppliers, and day-to-day pharmacy operations. | PHP · MySQL · HTML · CSS · JavaScript |
+| **Poaching Detection System** | A computer-vision workflow designed to support wildlife monitoring and rapid detection of poaching activity. | Python · Machine Learning · Computer Vision |
+| **TKPH Monitoring System** | A predictive monitoring tool that surfaces tire-health insights from operational data. | Python · Machine Learning · Data Analytics |
 
-### 💻 Languages
+<br />
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+## Engineering toolkit
 
-### 🎨 Frontend
+| Area | Technologies |
+| :-- | :-- |
+| **Languages** | Java · Python · TypeScript · JavaScript · SQL · PHP |
+| **Frontend** | React · HTML5 · CSS3 · Tailwind CSS |
+| **Backend & APIs** | Node.js · Express · FastAPI · REST APIs |
+| **Data** | PostgreSQL · MySQL · Prisma · Redis |
+| **AI / ML** | scikit-learn · TensorFlow · Streamlit · Computer Vision |
+| **Platform & workflow** | Git · GitHub · Docker · Postman · Vercel |
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<br />
 
-### ⚙️ Backend
+## GitHub activity
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samruddhi-Shinde-2024&show_icons=true&hide_border=true&bg_color=0B1220&title_color=67E8F9&icon_color=4F9DFF&text_color=CBD5E1&ring_color=7C4DFF" alt="Samruddhi's GitHub statistics" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Samruddhi-Shinde-2024&hide_border=true&background=0B1220&ring=7C4DFF&fire=00D4FF&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="Samruddhi's GitHub contribution streak" />
+</div>
 
-### 🗄️ Database
+<br />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+## Contribution rhythm
 
-### 🤖 AI / ML
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Samruddhi-Shinde-2024/Samruddhi-Shinde-2024/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution graph" width="100%" />
+</div>
 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<br />
 
-### 🛠️ Tools
+## Let’s build something meaningful
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+I am always interested in thoughtful engineering conversations, collaborative projects, and opportunities to learn from strong teams.
 
----
+<div align="left">
+  <a href="https://samruddhi-portfolio-five.vercel.app/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/samruddhi-shinde-37a3862a8/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:samruddhishinde960@vit.edu">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Samruddhi-Shinde-2024">GitHub</a>
+</div>
 
-# 🚀 Featured Projects
+<br />
 
-| Project | Tech Stack | Key Highlights |
-|---------|------------|----------------|
-| 🩺 **Healthcare Appointment Manager** | React • TypeScript • Node.js • Express • Prisma • PostgreSQL • Redis | Role-based Authentication, Appointment Scheduling, AI Visit Summaries, Google Calendar Integration |
-| 🛡️ **Sentinel SOC** | React • FastAPI • Python • Isolation Forest | Behavioral Anomaly Detection, Explainable AI, Threat Scoring, Interactive Security Dashboard |
-| 🦌 **Poaching Detection System** | Python • Machine Learning • Computer Vision | Wildlife Protection, Poacher Detection, AI-powered Monitoring, Real-time Alerts |
-| 📡 **TKPH Monitoring System** | Python • Machine Learning • Data Analytics | Tire Health Monitoring, Predictive Analytics, Industrial Dashboard, Equipment Monitoring |
-| 💊 **Pharmacy Management System** | PHP • MySQL • HTML • CSS • JavaScript | Inventory Management, Billing System, Medicine Stock Tracking, Supplier Management |
-
-## 🌱 Currently Learning
-
-- Advanced Data Structures & Algorithms
-- System Design Fundamentals
-- Cloud Computing
-- Backend Architecture
-- AI-powered Full Stack Applications
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Samruddhi-Shinde-2024/Samruddhi-Shinde-2024/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="YOUR_PORTFOLIO">
-
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-⭐ Thanks for visiting my GitHub profile!
-
-Always open to learning, collaborating, and building impactful software.
-
-</p>
+<div align="center">
+  <sub>Designed with intention. Built for impact.</sub>
+</div>
