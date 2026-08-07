@@ -12,21 +12,21 @@ xmlns="http://www.w3.org/2000/svg">
 <stop offset="0%" stop-color="#4F9DFF">
 <animate attributeName="stop-color"
 values="#4F9DFF;#7C4DFF;#4F9DFF"
-dur="8s"
+dur="13s"
 repeatCount="indefinite"/>
 </stop>
 
 <stop offset="50%" stop-color="#6A5CFF">
 <animate attributeName="stop-color"
 values="#6A5CFF;#00D4FF;#6A5CFF"
-dur="10s"
+dur="15s"
 repeatCount="indefinite"/>
 </stop>
 
 <stop offset="100%" stop-color="#00CFFF">
 <animate attributeName="stop-color"
 values="#00CFFF;#4F9DFF;#00CFFF"
-dur="8s"
+dur="13s"
 repeatCount="indefinite"/>
 </stop>
 
@@ -53,7 +53,7 @@ filter="url(#blur)">
 attributeName="transform"
 type="translate"
 values="-80 0;80 0;-80 0"
-dur="12s"
+dur="17s"
 repeatCount="indefinite"/>
 
 </ellipse>
@@ -71,7 +71,7 @@ filter="url(#blur)">
 attributeName="transform"
 type="translate"
 values="70 0;-70 0;70 0"
-dur="15s"
+dur="20s"
 repeatCount="indefinite"/>
 
 </ellipse>

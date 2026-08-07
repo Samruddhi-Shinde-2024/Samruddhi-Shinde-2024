@@ -1,334 +1,103 @@
-<svg width="1400" height="420"
-viewBox="0 0 1400 420"
-xmlns="http://www.w3.org/2000/svg">
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Profile hero banner | 1400 x 420
+  Customization guide:
+  - Palette: edit the colour stops in the "Gradients" section.
+  - Copy: edit the three text nodes in the "Content" section.
+  - Motion: adjust the duration (dur) values in the "Animation" section.
+  This file is self-contained and uses only GitHub-friendly SVG primitives and SMIL.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title description">
+  <title id="title">Samruddhi Shinde — Full Stack Developer</title>
+  <desc id="description">A dark developer profile banner with a moving blue, cyan, and purple aurora.</desc>
 
-<defs>
+  <defs>
+    <!-- Palette & reusable fills -->
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060b18"/>
+      <stop offset="0.52" stop-color="#0a1024"/>
+      <stop offset="1" stop-color="#100a22"/>
+    </linearGradient>
+    <linearGradient id="aurora" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563eb"/>
+      <stop offset="0.45" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="title-gradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#f8fbff"/>
+      <stop offset="0.5" stop-color="#c6f6ff"/>
+      <stop offset="1" stop-color="#d9ccff"/>
+    </linearGradient>
+    <radialGradient id="vignette" cx="50%" cy="45%" r="76%">
+      <stop offset="0.42" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="1" stop-color="#02040d" stop-opacity="0.72"/>
+    </radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#8bb9ff" stroke-opacity="0.13" stroke-width="1"/>
+    </pattern>
 
-<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-<stop offset="0%" stop-color="#050816"/>
-<stop offset="100%" stop-color="#090B17"/>
-</linearGradient>
+    <!-- Soft light filters; deliberately bounded for predictable rendering. -->
+    <filter id="aurora-blur" x="-35%" y="-120%" width="170%" height="340%">
+      <feGaussianBlur stdDeviation="42"/>
+    </filter>
+    <filter id="particle-glow" x="-300%" y="-300%" width="700%" height="700%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
 
-<linearGradient id="aurora"
-x1="0%"
-y1="0%"
-x2="100%"
-y2="0%">
+  <!-- Base: background, a restrained grid, then edge shading for readability. -->
+  <rect width="1400" height="420" fill="url(#background)"/>
+  <rect width="1400" height="420" fill="url(#grid)"/>
 
-<stop offset="0%">
-<animate
-attributeName="stop-color"
-values="#4F9DFF;#7C4DFF;#00D4FF;#4F9DFF"
-dur="8s"
-repeatCount="indefinite"/>
-</stop>
+  <!-- Aurora: three independently drifting, blurred ribbons. -->
+  <g filter="url(#aurora-blur)" opacity="0.68">
+    <g transform="rotate(-12 260 88)"><ellipse cx="260" cy="88" rx="330" ry="48" fill="url(#aurora)"><animateTransform attributeName="transform" type="translate" values="0 0;130 26;0 0" dur="18s" repeatCount="indefinite"/></ellipse></g>
+    <g transform="rotate(9 1020 154)"><ellipse cx="1020" cy="154" rx="390" ry="55" fill="url(#aurora)" opacity="0.72"><animateTransform attributeName="transform" type="translate" values="0 0;-160 -22;0 0" dur="22s" repeatCount="indefinite"/></ellipse></g>
+    <g transform="rotate(-4 690 367)"><ellipse cx="690" cy="367" rx="500" ry="48" fill="url(#aurora)" opacity="0.5"><animateTransform attributeName="transform" type="translate" values="0 0;80 -34;0 0" dur="20s" repeatCount="indefinite"/></ellipse></g>
+  </g>
+  <rect width="1400" height="420" fill="url(#vignette)"/>
 
-<stop offset="50%">
-<animate
-attributeName="stop-color"
-values="#6A5CFF;#00D4FF;#4F9DFF;#6A5CFF"
-dur="8s"
-repeatCount="indefinite"/>
-</stop>
-
-<stop offset="100%">
-<animate
-attributeName="stop-color"
-values="#00CFFF;#4F9DFF;#7C4DFF;#00CFFF"
-dur="8s"
-repeatCount="indefinite"/>
-</stop>
-
-</linearGradient>
-
-<filter id="blur">
-<feGaussianBlur stdDeviation="65"/>
-</filter>
-
-</defs>
-
-<rect
-width="1400"
-height="420"
-fill="url(#bg)"/>
-
-<ellipse
-cx="250"
-cy="120"
-rx="260"
-ry="70"
-fill="url(#aurora)"
-filter="url(#blur)"
-opacity=".75">
-
-<animate
-attributeName="cx"
-values="200;450;250"
-dur="12s"
-repeatCount="indefinite"/>
-
-</ellipse>
-
-<ellipse
-cx="950"
-cy="280"
-rx="320"
-ry="90"
-fill="url(#aurora)"
-filter="url(#blur)"
-opacity=".60">
-
-<animate
-attributeName="cx"
-values="1000;800;950"
-dur="15s"
-repeatCount="indefinite"/>
-
-</ellipse>
-
-<ellipse
-cx="700"
-cy="80"
-rx="180"
-ry="50"
-fill="url(#aurora)"
-filter="url(#blur)"
-opacity=".35">
-
-<animate
-attributeName="cy"
-values="70;120;70"
-dur="10s"
-repeatCount="indefinite"/>
-
-</ellipse>
-
-<!-- GRID -->
-
-<g opacity=".05">
-
-<path
-d="M0 60H1400
-M0 120H1400
-M0 180H1400
-M0 240H1400
-M0 300H1400
-M0 360H1400"
-
-stroke="#4F9DFF"
-stroke-width="1"/>
-
-<path
-d="M150 0V420
-M300 0V420
-M450 0V420
-M600 0V420
-M750 0V420
-M900 0V420
-M1050 0V420
-M1200 0V420"
-
-stroke="#4F9DFF"
-stroke-width="1"/>
-
-</g>
-
-<!-- TITLE -->
-
-<text
-x="700"
-y="150"
-fill="white"
-font-size="70"
-font-weight="700"
-font-family="Segoe UI"
-text-anchor="middle">
-
-Samruddhi
-
-<tspan fill="#4F9DFF">
-Shinde
-</tspan>
-
-</text>
-
-<!-- SUBTITLE -->
-
-<text
-x="700"
-y="205"
-fill="#D8D8D8"
-font-size="30"
-font-family="Segoe UI"
-text-anchor="middle">
-
-Information Technology Student
-
-</text>
-
-<!-- ROLE -->
-
-<text
-x="700"
-y="245"
-fill="#4F9DFF"
-font-size="26"
-font-weight="600"
-font-family="Segoe UI"
-text-anchor="middle">
-
-Full Stack Developer • AI/ML Enthusiast
-
-</text>
-
-<!-- LINE -->
-
-<line
-x1="450"
-x2="950"
-y1="285"
-y2="285"
-
-stroke="#4F9DFF"
-
-stroke-width="2"
-
-opacity=".35"/>
-
-<!-- GLOWING DOT -->
-
-<circle
-cx="700"
-cy="285"
-r="5"
-fill="#4F9DFF">
-
-<animate
-attributeName="r"
-values="4;8;4"
-dur="2s"
-repeatCount="indefinite"/>
-
-<animate
-attributeName="opacity"
-values="1;.3;1"
-dur="2s"
-repeatCount="indefinite"/>
-
-</circle>
-
-<animate
-
-attributeName="r"
-
-values="4;8;4"
-
-dur="2s"
-
-repeatCount="indefinite"/>
-
-</circle>
-
-<!-- FLOATING PARTICLES -->
-
-<!-- Top Left -->
-<g>
-    <circle cx="260" cy="80" r="4" fill="#4F9DFF">
-        <animate attributeName="opacity"
-                 values="1;0.2;1"
-                 dur="3s"
-                 repeatCount="indefinite"/>
-        <animateTransform
-            attributeName="transform"
-            type="translate"
-            values="0 0;0 -12;0 0"
-            dur="6s"
-            repeatCount="indefinite"/>
+  <!-- Floating geometric accents: intentionally sparse so the copy remains primary. -->
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M150 130l20-12 20 12v23l-20 12-20-12z" stroke="#22d3ee" stroke-opacity="0.58" stroke-width="1.5">
+      <animateTransform attributeName="transform" type="rotate" values="0 170 141;360 170 141" dur="26s" repeatCount="indefinite"/>
+    </path>
+    <path d="M1234 275l18-18 18 18-18 18z" stroke="#a78bfa" stroke-opacity="0.66" stroke-width="1.5">
+      <animateTransform attributeName="transform" type="rotate" values="0 1252 275;-360 1252 275" dur="22s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="1178" cy="92" r="15" stroke="#60a5fa" stroke-opacity="0.42" stroke-width="1.5">
+      <animate attributeName="r" values="13;17;13" dur="10s" repeatCount="indefinite"/>
     </circle>
-</g>
+    <path d="M280 328h42" stroke="#22d3ee" stroke-opacity="0.45" stroke-width="2">
+      <animate attributeName="opacity" values="0.2;0.8;0.2" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
 
-<!-- Top Right -->
-<g>
-    <circle cx="1140" cy="80" r="5" fill="#A66CFF">
-        <animate attributeName="opacity"
-                 values="1;0.3;1"
-                 dur="4s"
-                 repeatCount="indefinite"/>
-        <animateTransform
-            attributeName="transform"
-            type="translate"
-            values="0 0;0 10;0 0"
-            dur="5s"
-            repeatCount="indefinite"/>
+  <!-- Animated particles: each has a unique timing to avoid synchronized motion. -->
+  <g filter="url(#particle-glow)">
+    <circle cx="235" cy="237" r="2.5" fill="#67e8f9"><animate attributeName="opacity" values="0.15;1;0.15" dur="5.8s" repeatCount="indefinite"/></circle>
+    <circle cx="368" cy="74" r="2" fill="#93c5fd"><animate attributeName="opacity" values="1;0.2;1" dur="7.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1026" cy="340" r="2.5" fill="#c4b5fd"><animate attributeName="opacity" values="0.18;1;0.18" dur="6.4s" repeatCount="indefinite"/></circle>
+    <circle cx="1124" cy="210" r="2" fill="#67e8f9"><animate attributeName="opacity" values="1;0.15;1" dur="4.9s" repeatCount="indefinite"/></circle>
+    <circle cx="532" cy="349" r="1.8" fill="#93c5fd"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="6.7s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- Content: system font stack keeps the banner crisp without external font loading. -->
+  <g text-anchor="middle" font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="700" y="168" fill="url(#title-gradient)" font-size="66" font-weight="700" letter-spacing="-1.8">Samruddhi Shinde</text>
+    <text x="700" y="219" fill="#cbd5e1" font-size="25" font-weight="400" letter-spacing="0.3">Information Technology Student</text>
+    <g fill="#67e8f9" font-size="18" font-weight="600" letter-spacing="2.2">
+      <text x="700" y="259">FULL STACK DEVELOPER  •  AI / ML ENTHUSIAST</text>
+    </g>
+  </g>
+
+  <!-- Signature divider and its quietly pulsing status light. -->
+  <g transform="translate(700 300)">
+    <path d="M-232 0H-16M16 0H232" stroke="#60a5fa" stroke-opacity="0.48" stroke-width="1"/>
+    <circle r="4" fill="#67e8f9" filter="url(#particle-glow)">
+      <animate attributeName="r" values="3;6;3" dur="3.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="3.6s" repeatCount="indefinite"/>
     </circle>
-</g>
-
-<!-- Bottom Left -->
-<g>
-    <rect x="260"
-          y="300"
-          width="10"
-          height="10"
-          rx="2"
-          fill="#00D4FF">
-
-        <animateTransform
-            attributeName="transform"
-            type="rotate"
-            from="0 265 305"
-            to="360 265 305"
-            dur="12s"
-            repeatCount="indefinite"/>
-
-        <animate attributeName="opacity"
-                 values="1;0.4;1"
-                 dur="4s"
-                 repeatCount="indefinite"/>
-
-    </rect>
-</g>
-
-<!-- Bottom Right -->
-<g>
-    <circle cx="1140"
-            cy="300"
-            r="5"
-            fill="#4F9DFF">
-
-        <animate attributeName="r"
-                 values="4;8;4"
-                 dur="3s"
-                 repeatCount="indefinite"/>
-
-        <animate attributeName="opacity"
-                 values="1;0.3;1"
-                 dur="3s"
-                 repeatCount="indefinite"/>
-
-    </circle>
-</g>
-
-<!-- Extra Tiny Stars -->
-
-<circle cx="470" cy="120" r="2" fill="#4F9DFF">
-    <animate attributeName="opacity"
-             values="0;1;0"
-             dur="5s"
-             repeatCount="indefinite"/>
-</circle>
-
-<circle cx="960" cy="110" r="2" fill="#A66CFF">
-    <animate attributeName="opacity"
-             values="1;0;1"
-             dur="6s"
-             repeatCount="indefinite"/>
-</circle>
-
-<circle cx="890" cy="335" r="2" fill="#00D4FF">
-    <animate attributeName="opacity"
-             values="0;1;0"
-             dur="4s"
-             repeatCount="indefinite"/>
-</circle>
-
+  </g>
 </svg>
