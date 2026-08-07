@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Samruddhi Shinde Banner" width="100%" />
+<!-- <img src="assets/banner.png" alt="Samruddhi Shinde Banner" width="100%" /> -->
+
+<p align="center">
+
+<img src="assets/aurora.svg" width="100%">
+
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Building+Scalable+Software;Always+Learning+New+Technologies" />
