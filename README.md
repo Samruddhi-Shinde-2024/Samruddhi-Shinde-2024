@@ -11,19 +11,20 @@
 
 <br />
 
-## Profile
+---
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><b>Build</b><br /><sub>Reliable full-stack applications with deliberate, maintainable architecture.</sub></td>
-    <td width="33%" valign="top"><b>Explore</b><br /><sub>Applied AI and machine learning that make software more useful.</sub></td>
-    <td width="33%" valign="top"><b>Grow</b><br /><sub>Information Technology student at VIT Pune, focused on engineering depth.</sub></td>
-  </tr>
-</table>
+## 👩‍💻 About Me
 
-I am a full-stack developer and AI/ML enthusiast who enjoys turning complex ideas into dependable product experiences. My current focus is backend engineering, data structures, system design, and practical machine learning.
+I'm an Information Technology student at **Vishwakarma Institute of Technology (VIT), Pune**, passionate about building scalable web applications and AI-powered solutions.
 
-<br />
+I enjoy transforming ideas into practical software through clean code, thoughtful design, and continuous learning.
+
+- 🌱 Currently learning **Data Structures & Algorithms, Backend Engineering, and System Design**
+- 💻 Interested in **Full Stack Development, Artificial Intelligence, and Machine Learning**
+- 🚀 Building projects that solve real-world problems
+- 🎯 Goal: Become a Software Development Engineer
+
+---
 
 ## 🛠️ Tech Stack
 
