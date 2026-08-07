@@ -8,6 +8,10 @@
 
 <p align="center">
 
+<p align="center">
+    <img src="assets/wave.svg" width="100%">
+</p>
+
 💡 Passionate about Full Stack Development, AI/ML, and building scalable software solutions.
 
 </p>
