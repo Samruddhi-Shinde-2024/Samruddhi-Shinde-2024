@@ -107,6 +107,16 @@ I enjoy transforming ideas into practical software through clean code, thoughtfu
 
 ---
 
+# 🐍 Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Samruddhi-Shinde-2024/Samruddhi-Shinde-2024/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+---
+
 # 📫 Let's Connect
 
 <p align="center">
