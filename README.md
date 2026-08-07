@@ -1,150 +1,81 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%">
-</p>
+<div align="center">
 
-<h1 align="center">
-Hi 👋 I'm <b>Samruddhi Shinde</b>
-</h1>
+<img src="assets/banner.png" alt="Samruddhi Shinde Banner" width="100%" />
 
-<h3 align="center">
-Information Technology Student • Full Stack Developer • AI/ML Enthusiast
-</h3>
+> 💡 Passionate about Full Stack Development, AI/ML, and building scalable software solutions.
 
-<p align="center">
-Building scalable software, backend systems, and AI-powered applications.
-</p>
+# Hi 👋, I'm Samruddhi Shinde
+
+### Information Technology Student @ VIT Pune
+
+**Full Stack Developer • AI/ML Enthusiast**
+
+*🚀 Building Scalable Software & Intelligent Solutions*
 
 <p align="center">
-
-<a href="https://samruddhi-portfolio-five.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/samruddhi-shinde-37a3862a8/">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
-</a>
-
-<a href="mailto:samruddhishinde960@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="https://drive.google.com/file/d/1191RdIcFe2LmjEMS8RLBOo2tW3D5As7G/view?usp=sharing">
-
-<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge"/>
-
-</a>
-
+  <a href="https://samruddhi-portfolio-five.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/samruddhi-shinde-37a3862a8/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:samruddhishinde960@vit.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
+
+</div>
 
 ---
 
-# 👩🏻‍💻 About Me
+## 👩‍💻 About Me
 
-I'm an Information Technology student at **Vishwakarma Institute of Technology (VIT), Pune** passionate about building production-ready software and solving real-world problems through technology.
+I'm an Information Technology student at **Vishwakarma Institute of Technology (VIT), Pune**, passionate about building scalable web applications and AI-powered solutions.
 
-I enjoy designing scalable backend systems, developing full-stack applications, and exploring Artificial Intelligence to create practical software solutions.
+I enjoy transforming ideas into practical software through clean code, thoughtful design, and continuous learning.
 
-### 🚀 Currently
-
-- 🌱 Learning **Advanced DSA, Backend Engineering & System Design**
-- 💻 Building **Production-ready Full Stack Applications**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🎯 Preparing for **Software Development Engineer (SDE)** roles
+- 🌱 Currently learning **Data Structures & Algorithms, Backend Engineering, and System Design**
+- 💻 Interested in **Full Stack Development, Artificial Intelligence, and Machine Learning**
+- 🚀 Building projects that solve real-world problems
+- 🎯 Goal: Become a Software Development Engineer
 
 ---
 
-# 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
-<p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=java"/>
+### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=python"/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=js"/>
+### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=ts"/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=mysql"/>
+### 🗄️ Database
 
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### Frontend
+### 🤖 AI / ML
 
-<p>
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=react"/>
+### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=php"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
-
-<img src="https://skillicons.dev/icons?i=prisma"/>
-
-<img src="https://skillicons.dev/icons?i=redis"/>
-
-</p>
-
-### AI / ML
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=postman"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -190,49 +121,13 @@ Machine Learning application that predicts maternal mental health risks using cl
 
 ---
 
-## 📋 Assignment Tracker
-
-> **Java • Swing • JDBC • MySQL**
-
-Desktop application for managing academic assignments with user authentication, deadline tracking, and progress monitoring.
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samruddhi-Shinde-2024&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samruddhi-Shinde-2024&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Samruddhi-Shinde-2024&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Achievements
-
-- 🎖️ Web Development Coordinator — CSI VIT Pune
-- 🏅 Top 5 — Navdhara Poster Presentation Competition
-- 🎓 CGPA: **9.04**
-- 🚀 Developed multiple Full Stack and AI-powered applications
-
----
-
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - Advanced Data Structures & Algorithms
-- Backend Architecture
-- System Design
+- System Design Fundamentals
 - Cloud Computing
-- Docker
-- AI-powered Full Stack Development
+- Backend Architecture
+- AI-powered Full Stack Applications
 
 ---
 
