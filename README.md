@@ -1,28 +1,20 @@
 <div align="center">
   <img src="./assets/hero.svg" alt="Samruddhi Shinde — Full Stack Developer and AI/ML Enthusiast" width="100%" />
 
-  <br />
-
   <a href="https://samruddhi-portfolio-five.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=flat-square&logo=vercel&logoColor=67E8F9&labelColor=0B1220" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/samruddhi-shinde-37a3862a8/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&logo=linkedin&logoColor=67E8F9&labelColor=0B1220" alt="LinkedIn" /></a>
   <a href="mailto:samruddhishinde960@vit.edu"><img src="https://img.shields.io/badge/Email-0B1220?style=flat-square&logo=gmail&logoColor=67E8F9&labelColor=0B1220" alt="Email" /></a>
   <a href="https://github.com/Samruddhi-Shinde-2024"><img src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=67E8F9&labelColor=0B1220" alt="GitHub" /></a>
 </div>
 
-<br />
-
 ---
 
-## 👩‍💻 About Me
+# About Me
 
-I'm an Information Technology student at **Vishwakarma Institute of Technology (VIT), Pune**, passionate about building scalable web applications and AI-powered solutions.
-
-I enjoy transforming ideas into practical software through clean code, thoughtful design, and continuous learning.
-
-- 🌱 Currently learning **Data Structures & Algorithms, Backend Engineering, and System Design**
-- 💻 Interested in **Full Stack Development, Artificial Intelligence, and Machine Learning**
-- 🚀 Building projects that solve real-world problems
-- 🎯 Goal: Become a Software Development Engineer
+- **Full-stack product engineering** — building dependable applications with clear, maintainable architecture.
+- **Applied AI / ML** — exploring intelligent features that make software more useful in practice.
+- **Current focus** — backend engineering, data structures, and system design.
+- **Education** — Information Technology student at Vishwakarma Institute of Technology, Pune.
 
 ---
 
