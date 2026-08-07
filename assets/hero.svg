@@ -59,7 +59,7 @@ rx="260"
 ry="70"
 fill="url(#aurora)"
 filter="url(#blur)"
-opacity=".55">
+opacity=".75">
 
 <animate
 attributeName="cx"
@@ -76,7 +76,7 @@ rx="320"
 ry="90"
 fill="url(#aurora)"
 filter="url(#blur)"
-opacity=".45">
+opacity=".60">
 
 <animate
 attributeName="cx"
@@ -93,7 +93,7 @@ rx="180"
 ry="50"
 fill="url(#aurora)"
 filter="url(#blur)"
-opacity=".25">
+opacity=".35">
 
 <animate
 attributeName="cy"
@@ -105,7 +105,7 @@ repeatCount="indefinite"/>
 
 <!-- GRID -->
 
-<g opacity=".08">
+<g opacity=".05">
 
 <path
 d="M0 60H1400
@@ -139,7 +139,7 @@ stroke-width="1"/>
 x="700"
 y="150"
 fill="white"
-font-size="64"
+font-size="70"
 font-weight="700"
 font-family="Segoe UI"
 text-anchor="middle">
@@ -158,7 +158,7 @@ Shinde
 x="700"
 y="205"
 fill="#D8D8D8"
-font-size="28"
+font-size="30"
 font-family="Segoe UI"
 text-anchor="middle">
 
@@ -172,7 +172,8 @@ Information Technology Student
 x="700"
 y="245"
 fill="#4F9DFF"
-font-size="24"
+font-size="26"
+font-weight="600"
 font-family="Segoe UI"
 text-anchor="middle">
 
@@ -203,6 +204,20 @@ r="5"
 fill="#4F9DFF">
 
 <animate
+attributeName="r"
+values="4;8;4"
+dur="2s"
+repeatCount="indefinite"/>
+
+<animate
+attributeName="opacity"
+values="1;.3;1"
+dur="2s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<animate
 
 attributeName="r"
 
@@ -214,90 +229,106 @@ repeatCount="indefinite"/>
 
 </circle>
 
-<!-- FLOATING ICONS -->
+<!-- FLOATING PARTICLES -->
 
-<text
-x="260"
-y="120"
-font-size="28">
+<!-- Top Left -->
+<g>
+    <circle cx="260" cy="80" r="4" fill="#4F9DFF">
+        <animate attributeName="opacity"
+                 values="1;0.2;1"
+                 dur="3s"
+                 repeatCount="indefinite"/>
+        <animateTransform
+            attributeName="transform"
+            type="translate"
+            values="0 0;0 -12;0 0"
+            dur="6s"
+            repeatCount="indefinite"/>
+    </circle>
+</g>
 
-💻
+<!-- Top Right -->
+<g>
+    <circle cx="1140" cy="80" r="5" fill="#A66CFF">
+        <animate attributeName="opacity"
+                 values="1;0.3;1"
+                 dur="4s"
+                 repeatCount="indefinite"/>
+        <animateTransform
+            attributeName="transform"
+            type="translate"
+            values="0 0;0 10;0 0"
+            dur="5s"
+            repeatCount="indefinite"/>
+    </circle>
+</g>
 
-<animateTransform
+<!-- Bottom Left -->
+<g>
+    <rect x="260"
+          y="300"
+          width="10"
+          height="10"
+          rx="2"
+          fill="#00D4FF">
 
-attributeName="transform"
+        <animateTransform
+            attributeName="transform"
+            type="rotate"
+            from="0 265 305"
+            to="360 265 305"
+            dur="12s"
+            repeatCount="indefinite"/>
 
-type="translate"
+        <animate attributeName="opacity"
+                 values="1;0.4;1"
+                 dur="4s"
+                 repeatCount="indefinite"/>
 
-values="0 0;0 -12;0 0"
+    </rect>
+</g>
 
-dur="5s"
+<!-- Bottom Right -->
+<g>
+    <circle cx="1140"
+            cy="300"
+            r="5"
+            fill="#4F9DFF">
 
-repeatCount="indefinite"/>
+        <animate attributeName="r"
+                 values="4;8;4"
+                 dur="3s"
+                 repeatCount="indefinite"/>
 
-</text>
+        <animate attributeName="opacity"
+                 values="1;0.3;1"
+                 dur="3s"
+                 repeatCount="indefinite"/>
 
-<text
-x="1110"
-y="120"
-font-size="28">
+    </circle>
+</g>
 
-⚙️
+<!-- Extra Tiny Stars -->
 
-<animateTransform
+<circle cx="470" cy="120" r="2" fill="#4F9DFF">
+    <animate attributeName="opacity"
+             values="0;1;0"
+             dur="5s"
+             repeatCount="indefinite"/>
+</circle>
 
-attributeName="transform"
+<circle cx="960" cy="110" r="2" fill="#A66CFF">
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="6s"
+             repeatCount="indefinite"/>
+</circle>
 
-type="translate"
-
-values="0 0;0 10;0 0"
-
-dur="6s"
-
-repeatCount="indefinite"/>
-
-</text>
-
-<text
-x="270"
-y="310"
-font-size="28">
-
-🤖
-
-<animateTransform
-
-attributeName="transform"
-
-type="translate"
-
-values="0 0;0 -10;0 0"
-
-dur="7s"
-
-repeatCount="indefinite"/>
-
-</text>
-
-<text
-x="1120"
-y="310"
-font-size="28">
-
-☁️
-
-<animateTransform
-
-attributeName="transform"
-
-type="translate"
-
-values="0 0;0 12;0 0"
-
-dur="5s"
-
-repeatCount="indefinite"/>
-
-</text>
+<circle cx="890" cy="335" r="2" fill="#00D4FF">
+    <animate attributeName="opacity"
+             values="0;1;0"
+             dur="4s"
+             repeatCount="indefinite"/>
+</circle>
 
 </svg>
