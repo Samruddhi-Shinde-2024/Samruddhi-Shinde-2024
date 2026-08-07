@@ -1,41 +1,29 @@
 <div align="center">
+  <img src="./assets/hero.svg" alt="Samruddhi Shinde — Full Stack Developer and AI/ML Enthusiast" width="100%" />
 
-<img src="./assets/hero.svg" width="100%" />
+  <br />
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1200&color=4F9DFF&center=true&vCenter=true&width=700&lines=Building+Scalable+Software;Full+Stack+Developer;AI%2FML+Enthusiast;Always+Learning+New+Technologies"/>
-
-<br><br>
-
-<a href="https://samruddhi-portfolio-five.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/samruddhi-shinde-37a3862a8/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:samruddhishinde960@vit.edu">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://samruddhi-portfolio-five.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0B1220?style=flat-square&logo=vercel&logoColor=67E8F9&labelColor=0B1220" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/samruddhi-shinde-37a3862a8/"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&logo=linkedin&logoColor=67E8F9&labelColor=0B1220" alt="LinkedIn" /></a>
+  <a href="mailto:samruddhishinde960@vit.edu"><img src="https://img.shields.io/badge/Email-0B1220?style=flat-square&logo=gmail&logoColor=67E8F9&labelColor=0B1220" alt="Email" /></a>
+  <a href="https://github.com/Samruddhi-Shinde-2024"><img src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=67E8F9&labelColor=0B1220" alt="GitHub" /></a>
 </div>
 
----
+<br />
 
-## 👩‍💻 About Me
+## Profile
 
-I'm an Information Technology student at **Vishwakarma Institute of Technology (VIT), Pune**, passionate about building scalable web applications and AI-powered solutions.
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>Build</b><br /><sub>Reliable full-stack applications with deliberate, maintainable architecture.</sub></td>
+    <td width="33%" valign="top"><b>Explore</b><br /><sub>Applied AI and machine learning that make software more useful.</sub></td>
+    <td width="33%" valign="top"><b>Grow</b><br /><sub>Information Technology student at VIT Pune, focused on engineering depth.</sub></td>
+  </tr>
+</table>
 
-I enjoy transforming ideas into practical software through clean code, thoughtful design, and continuous learning.
+I am a full-stack developer and AI/ML enthusiast who enjoys turning complex ideas into dependable product experiences. My current focus is backend engineering, data structures, system design, and practical machine learning.
 
-- 🌱 Currently learning **Data Structures & Algorithms, Backend Engineering, and System Design**
-- 💻 Interested in **Full Stack Development, Artificial Intelligence, and Machine Learning**
-- 🚀 Building projects that solve real-world problems
-- 🎯 Goal: Become a Software Development Engineer
-
----
+<br />
 
 ## 🛠️ Tech Stack
 
@@ -106,32 +94,6 @@ I enjoy transforming ideas into practical software through clean code, thoughtfu
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Samruddhi-Shinde-2024/Samruddhi-Shinde-2024/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
----
-
-# 📫 Let's Connect
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="YOUR_PORTFOLIO">
-
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-
-</a>
 
 </p>
 
