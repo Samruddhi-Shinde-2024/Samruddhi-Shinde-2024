@@ -2,7 +2,15 @@
 
 <img src="assets/banner.png" alt="Samruddhi Shinde Banner" width="100%" />
 
-> 💡 Passionate about Full Stack Development, AI/ML, and building scalable software solutions.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Building+Scalable+Software;Always+Learning+New+Technologies" />
+</p>
+
+<p align="center">
+
+💡 Passionate about Full Stack Development, AI/ML, and building scalable software solutions.
+
+</p>
 
 # Hi 👋, I'm Samruddhi Shinde
 
@@ -81,45 +89,13 @@ I enjoy transforming ideas into practical software through clean code, thoughtfu
 
 # 🚀 Featured Projects
 
-## 🩺 Healthcare Appointment Manager
-
-> **React • TypeScript • Node.js • Express • Prisma • PostgreSQL • Redis**
-
-Production-ready healthcare platform featuring:
-
-- Role-based Authentication
-- Appointment Scheduling
-- AI Visit Summaries
-- Google Calendar Integration
-- Background Jobs
-- REST API
-- Swagger Documentation
-
----
-
-## 🛡️ Sentinel SOC
-
-> **React • FastAPI • Isolation Forest • Python**
-
-AI-powered Security Operations Center dashboard for behavioural anomaly detection and cyber threat visualization.
-
-Highlights:
-
-- Threat Detection
-- Explainable AI
-- SOC Dashboard
-- Security Analytics
-- Interactive Visualizations
-
----
-
-## 🤖 Maternal Mental Health Prediction
-
-> **Python • Streamlit • Machine Learning**
-
-Machine Learning application that predicts maternal mental health risks using clinical data and interactive visualizations.
-
----
+| Project | Tech Stack | Key Highlights |
+|---------|------------|----------------|
+| 🩺 **Healthcare Appointment Manager** | React • TypeScript • Node.js • Express • Prisma • PostgreSQL • Redis | Role-based Authentication, Appointment Scheduling, AI Visit Summaries, Google Calendar Integration |
+| 🛡️ **Sentinel SOC** | React • FastAPI • Python • Isolation Forest | Behavioral Anomaly Detection, Explainable AI, Threat Scoring, Interactive Security Dashboard |
+| 🦌 **Poaching Detection System** | Python • Machine Learning • Computer Vision | Wildlife Protection, Poacher Detection, AI-powered Monitoring, Real-time Alerts |
+| 📡 **TKPH Monitoring System** | Python • Machine Learning • Data Analytics | Tire Health Monitoring, Predictive Analytics, Industrial Dashboard, Equipment Monitoring |
+| 💊 **Pharmacy Management System** | PHP • MySQL • HTML • CSS • JavaScript | Inventory Management, Billing System, Medicine Stock Tracking, Supplier Management |
 
 ## 🌱 Currently Learning
 
@@ -159,6 +135,8 @@ Machine Learning application that predicts maternal mental health risks using cl
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my GitHub profile!
+
+Always open to learning, collaborating, and building impactful software.
 
 </p>
